@@ -60,10 +60,10 @@ Different scripts require different token scopes:
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please feel free to submit a pull request.
 
 ## License
 
-Copyright &copy; [Xi Xu](https://xi-xu.me). All rights reserved.
+Copyright &copy; [Xi Xu](https://xi-xu.me)
 
 Licensed under the [GPL-3.0](LICENSE) license.
